@@ -63,5 +63,3 @@ class DeviceController {
 }
 
 module.exports = new DeviceController()
-
-//54.28
